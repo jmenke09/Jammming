@@ -2,12 +2,12 @@ Project instructions:
 https://github.com/Sypher12233/CC_jammming
 https://www.youtube.com/watch?v=BeZUvaACVEA
 
-Finished section 3, haven't started section 4
+Finished section 9
 
 
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
 
 <!-- ## Available Scripts
 
